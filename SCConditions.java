@@ -77,7 +77,6 @@ public class SCConditions {
            else
            {
                System.out.println("It is a Odd Number");
-           }
-           
+           }      
     }   */
 }
