@@ -12,6 +12,8 @@ public class SCConditions {
            m1=sc.nextInt();
            m2=sc.nextInt();
            m3=sc.nextInt();
+
+           sc.close();
            
            float avg=(float)(m1+m2+m3)/3;
            
